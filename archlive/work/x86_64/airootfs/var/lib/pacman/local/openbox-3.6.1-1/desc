@@ -1,0 +1,55 @@
+%NAME%
+openbox
+
+%VERSION%
+3.6.1-1
+
+%DESC%
+Highly configurable and lightweight X11 window manager
+
+%URL%
+http://openbox.org
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1435828137
+
+%INSTALLDATE%
+1449338734
+
+%PACKAGER%
+Florian Pritz <bluewind@xinu.at>
+
+%SIZE%
+1245184
+
+%GROUPS%
+lxde
+lxqt
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+startup-notification
+libxml2
+libxinerama
+libxrandr
+libxcursor
+pango
+imlib2
+librsvg
+libsm
+
+%OPTDEPENDS%
+kdebase-workspace: for the KDE/Openbox xsession
+python2-xdg: for the openbox-xdg-autostart script
+
+%PROVIDES%
+libobrender.so=32-64
+

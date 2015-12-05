@@ -1,0 +1,34 @@
+%NAME%
+prebootloader
+
+%VERSION%
+20130206-2
+
+%DESC%
+Linux Foundation UEFI secure boot system
+
+%URL%
+http://www.linuxfoundation.org/news-media/blogs/browse/2012/10/linux-foundation-uefi-secure-boot-system-open-source
+
+%ARCH%
+any
+
+%BUILDDATE%
+1377080590
+
+%INSTALLDATE%
+1449338739
+
+%PACKAGER%
+Tobias Powalowski <tpowa@archlinux.org>
+
+%SIZE%
+349184
+
+%LICENSE%
+GPL
+LGPL2.1
+
+%VALIDATION%
+pgp
+

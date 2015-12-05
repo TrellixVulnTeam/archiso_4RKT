@@ -1,0 +1,45 @@
+%NAME%
+libxml2
+
+%VERSION%
+2.9.2-2
+
+%DESC%
+XML parsing library, version 2
+
+%URL%
+http://www.xmlsoft.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1416253528
+
+%INSTALLDATE%
+1449336086
+
+%PACKAGER%
+Jan de Groot <jgc@archlinux.org>
+
+%SIZE%
+8818688
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+zlib
+readline
+ncurses
+xz
+
+%OPTDEPENDS%
+python2: python bindings to libxml
+

@@ -1,0 +1,49 @@
+%NAME%
+xdg-utils
+
+%VERSION%
+1.1.1-1
+
+%DESC%
+Command line tools that assist applications with a variety of desktop integration tasks
+
+%URL%
+http://cgit.freedesktop.org/xdg/xdg-utils/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1444244088
+
+%INSTALLDATE%
+1449336098
+
+%PACKAGER%
+Andreas Radke <andyrtr@archlinux.org>
+
+%SIZE%
+310272
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+sh
+xorg-xset
+
+%OPTDEPENDS%
+kdebase-runtime: for KDE4 support in xdg-open
+kde-cli-tools: for KDE Plasma5 support in xdg-open
+libgnome: for GNOME support in xdg-open
+exo: for Xfce support in xdg-open
+xorg-xprop: for Xfce support in xdg-open
+pcmanfm: for LXDE support in xdg-open
+perl-file-mimeinfo: for generic support in xdg-open
+

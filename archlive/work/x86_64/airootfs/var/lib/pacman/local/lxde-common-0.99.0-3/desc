@@ -1,0 +1,43 @@
+%NAME%
+lxde-common
+
+%VERSION%
+0.99.0-3
+
+%DESC%
+Common files of the LXDE Desktop
+
+%URL%
+http://lxde.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1443200520
+
+%INSTALLDATE%
+1449338734
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>
+
+%SIZE%
+923648
+
+%GROUPS%
+lxde
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+lxsession
+
+%OPTDEPENDS%
+gtk-engines: default GTK+ theme
+lxde-icon-theme: default icon theme
+

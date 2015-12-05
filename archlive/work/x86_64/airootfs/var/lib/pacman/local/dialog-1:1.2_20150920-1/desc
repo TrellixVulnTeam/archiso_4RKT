@@ -1,0 +1,37 @@
+%NAME%
+dialog
+
+%VERSION%
+1:1.2_20150920-1
+
+%DESC%
+A tool to display dialog boxes from shell scripts
+
+%URL%
+http://invisible-island.net/dialog/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1442889148
+
+%INSTALLDATE%
+1449338731
+
+%PACKAGER%
+Evangelos Foutras <evangelos@foutrelis.com>
+
+%SIZE%
+421888
+
+%LICENSE%
+LGPL2.1
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+sh
+ncurses
+

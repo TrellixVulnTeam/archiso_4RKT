@@ -1,0 +1,55 @@
+%NAME%
+gtk2
+
+%VERSION%
+2.24.28-1
+
+%DESC%
+GObject-based multi-platform GUI toolkit (legacy)
+
+%URL%
+http://www.gtk.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1431534797
+
+%INSTALLDATE%
+1449336098
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>
+
+%SIZE%
+57300992
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+atk
+pango
+libxcursor
+libxinerama
+libxrandr
+libxi
+libxcomposite
+libxdamage
+shared-mime-info
+cairo
+libcups
+gtk-update-icon-cache
+librsvg
+
+%OPTDEPENDS%
+gnome-themes-standard: Default widget theme
+adwaita-icon-theme: Default icon theme
+

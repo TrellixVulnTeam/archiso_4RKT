@@ -1,0 +1,46 @@
+%NAME%
+libnewt
+
+%VERSION%
+0.52.18-3
+
+%DESC%
+Not Erik's Windowing Toolkit - text mode windowing with slang
+
+%URL%
+https://fedorahosted.org/newt/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1442667001
+
+%INSTALLDATE%
+1449336085
+
+%PACKAGER%
+Alexander Rødseth <rodseth@gmail.com>
+
+%SIZE%
+518144
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+slang
+popt
+gpm
+
+%OPTDEPENDS%
+tcl: whiptcl support
+python: libnewt support with the _snack module
+python2: libnewt support with the _snack module
+

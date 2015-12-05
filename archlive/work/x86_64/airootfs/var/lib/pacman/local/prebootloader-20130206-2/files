@@ -1,0 +1,8 @@
+%FILES%
+usr/
+usr/lib/
+usr/lib/prebootloader/
+usr/lib/prebootloader/HashTool.efi
+usr/lib/prebootloader/KeyTool.efi
+usr/lib/prebootloader/PreLoader.efi
+

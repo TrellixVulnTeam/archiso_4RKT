@@ -1,0 +1,44 @@
+%NAME%
+lftp
+
+%VERSION%
+4.6.4-2
+
+%DESC%
+Sophisticated command line based FTP client
+
+%URL%
+http://lftp.yar.ru/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1441618004
+
+%INSTALLDATE%
+1449338732
+
+%PACKAGER%
+Evangelos Foutras <evangelos@foutrelis.com>
+
+%SIZE%
+1953792
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+readline
+gnutls
+libidn
+expat
+sh
+
+%OPTDEPENDS%
+perl: needed for convert-netscape-cookies and verify-file
+

@@ -1,0 +1,36 @@
+%NAME%
+geoip-database
+
+%VERSION%
+20151103-1
+
+%DESC%
+GeoLite country geolocation database compiled by MaxMind
+
+%URL%
+http://dev.maxmind.com/geoip/legacy/downloadable/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1447194896
+
+%INSTALLDATE%
+1449336086
+
+%PACKAGER%
+Evangelos Foutras <evangelos@foutrelis.com>
+
+%SIZE%
+2326528
+
+%REASON%
+1
+
+%LICENSE%
+custom:OPEN DATA LICENSE
+
+%VALIDATION%
+pgp
+

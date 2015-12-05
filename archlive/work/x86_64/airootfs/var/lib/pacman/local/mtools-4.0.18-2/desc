@@ -1,0 +1,40 @@
+%NAME%
+mtools
+
+%VERSION%
+4.0.18-2
+
+%DESC%
+A collection of utilities to access MS-DOS disks
+
+%URL%
+http://www.gnu.org/software/mtools/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1404446938
+
+%INSTALLDATE%
+1449338732
+
+%PACKAGER%
+Felix Yan <felixonmars@gmail.com>
+
+%SIZE%
+328704
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+sh
+
+%OPTDEPENDS%
+libx11: required by floppyd
+libsm: required by floppyd
+

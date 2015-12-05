@@ -1,0 +1,65 @@
+%NAME%
+chromium
+
+%VERSION%
+47.0.2526.73-1
+
+%DESC%
+The open-source project behind Google Chrome, an attempt at creating a safer, faster, and more stable browser
+
+%URL%
+http://www.chromium.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1449012595
+
+%INSTALLDATE%
+1449338739
+
+%PACKAGER%
+Evangelos Foutras <evangelos@foutrelis.com>
+
+%SIZE%
+176269312
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gtk2
+nss
+alsa-lib
+xdg-utils
+bzip2
+libevent
+libxss
+icu
+libexif
+libgcrypt
+ttf-font
+systemd
+dbus
+flac
+snappy
+speech-dispatcher
+pciutils
+libpulse
+harfbuzz
+libsecret
+libvpx
+perl
+perl-file-basedir
+desktop-file-utils
+hicolor-icon-theme
+
+%OPTDEPENDS%
+kdebase-kdialog: needed for file dialogs in KDE
+gnome-keyring: for storing passwords in GNOME keyring
+kwallet: for storing passwords in KWallet
+

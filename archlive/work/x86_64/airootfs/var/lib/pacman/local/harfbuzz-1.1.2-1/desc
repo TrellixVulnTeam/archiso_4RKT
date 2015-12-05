@@ -1,0 +1,44 @@
+%NAME%
+harfbuzz
+
+%VERSION%
+1.1.2-1
+
+%DESC%
+OpenType text shaping engine
+
+%URL%
+http://www.freedesktop.org/wiki/Software/HarfBuzz
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1448618495
+
+%INSTALLDATE%
+1449336091
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <jan.steffens@gmail.com>
+
+%SIZE%
+1332224
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glib2
+freetype2
+graphite
+
+%OPTDEPENDS%
+cairo: hb-view program
+

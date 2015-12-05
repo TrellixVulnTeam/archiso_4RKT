@@ -1,0 +1,36 @@
+%NAME%
+lxmenu-data
+
+%VERSION%
+0.1.4-1
+
+%DESC%
+freedesktop.org desktop menus for LXDE
+
+%URL%
+http://lxde.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1411352144
+
+%INSTALLDATE%
+1449338735
+
+%PACKAGER%
+Alexandre Filgueira <alexfilgueira@cinnarch.com>
+
+%SIZE%
+192512
+
+%GROUPS%
+lxde
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+

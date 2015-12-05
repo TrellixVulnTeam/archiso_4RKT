@@ -1,0 +1,25 @@
+[MIME Cache]
+application/pcx=gpicview.desktop;
+application/x-desktop=lxshortcut.desktop;
+application/xhtml+xml=chromium.desktop;
+image/bmp=gpicview.desktop;
+image/gif=gpicview.desktop;
+image/jpeg=gpicview.desktop;
+image/jpg=gpicview.desktop;
+image/png=gpicview.desktop;
+image/svg+xml=gpicview.desktop;
+image/svg-xml=gpicview.desktop;
+image/tiff=gpicview.desktop;
+image/x-bmp=gpicview.desktop;
+image/x-pcx=gpicview.desktop;
+image/x-portable-bitmap=gpicview.desktop;
+image/x-portable-greymap=gpicview.desktop;
+image/x-portable-pixmap=gpicview.desktop;
+image/x-targa=gpicview.desktop;
+image/x-tga=gpicview.desktop;
+inode/directory=pcmanfm.desktop;
+text/html=chromium.desktop;elinks.desktop;
+text/mml=chromium.desktop;
+text/xml=chromium.desktop;
+x-scheme-handler/http=chromium.desktop;
+x-scheme-handler/https=chromium.desktop;

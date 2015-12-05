@@ -1,0 +1,12 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+modlibexecdir=${exec_prefix}/lib/pulse-7.1/modules
+
+Name: libpulse
+Description: PulseAudio Client Interface
+Version: 7.1
+Libs: -L${libdir} -lpulse 
+Libs.private: -L${libdir}/pulseaudio -lpulsecommon-7.1
+Cflags: -I${includedir} -D_REENTRANT

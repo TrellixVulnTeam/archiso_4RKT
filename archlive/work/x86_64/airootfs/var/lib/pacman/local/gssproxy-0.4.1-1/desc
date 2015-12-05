@@ -1,0 +1,41 @@
+%NAME%
+gssproxy
+
+%VERSION%
+0.4.1-1
+
+%DESC%
+GSSAPI Proxy
+
+%URL%
+https://fedorahosted.org/gss-proxy/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1427828681
+
+%INSTALLDATE%
+1449336088
+
+%PACKAGER%
+Andreas Radke <andyrtr@archlinux.org>
+
+%SIZE%
+282624
+
+%REASON%
+1
+
+%LICENSE%
+custom: MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+krb5
+popt
+ding-libs
+

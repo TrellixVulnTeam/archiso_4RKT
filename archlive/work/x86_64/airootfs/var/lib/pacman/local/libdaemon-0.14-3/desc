@@ -1,0 +1,36 @@
+%NAME%
+libdaemon
+
+%VERSION%
+0.14-3
+
+%DESC%
+Lightweight C library that eases the writing of UNIX daemons
+
+%URL%
+http://0pointer.de/lennart/projects/libdaemon/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1404124669
+
+%INSTALLDATE%
+1449336097
+
+%PACKAGER%
+Gaetan Bisson <bisson@archlinux.org>
+
+%SIZE%
+57344
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+

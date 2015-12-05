@@ -1,0 +1,48 @@
+%NAME%
+speech-dispatcher
+
+%VERSION%
+0.8.3-6
+
+%DESC%
+High-level device independent layer for speech synthesis interface
+
+%URL%
+http://www.freebsoft.org/speechd
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1442697042
+
+%INSTALLDATE%
+1449336103
+
+%PACKAGER%
+Sven-Hendrik Haase <sh@lutzhaase.com>
+
+%SIZE%
+1491968
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+FDL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libltdl
+python-xdg
+dotconf
+libpulse
+
+%OPTDEPENDS%
+festival: Speech output using Festival
+espeak: Speech output using ESpeak
+pulseaudio: PulseAudio support
+

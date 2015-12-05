@@ -1,0 +1,42 @@
+%NAME%
+libevent
+
+%VERSION%
+2.0.22-1
+
+%DESC%
+An event notification library
+
+%URL%
+http://www.monkey.org/~provos/libevent/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1420733540
+
+%INSTALLDATE%
+1449336088
+
+%PACKAGER%
+Eric Belanger <eric@archlinux.org>
+
+%SIZE%
+1056768
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+openssl
+
+%OPTDEPENDS%
+python2: to use event_rpcgen.py
+

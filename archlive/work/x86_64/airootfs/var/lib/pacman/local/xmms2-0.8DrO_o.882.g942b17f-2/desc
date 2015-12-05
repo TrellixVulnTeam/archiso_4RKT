@@ -1,0 +1,86 @@
+%NAME%
+xmms2
+
+%VERSION%
+0.8DrO_o.882.g942b17f-2
+
+%DESC%
+X-platform Music Multiplexing System 2
+
+%URL%
+https://xmms2.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1443783664
+
+%INSTALLDATE%
+1449336099
+
+%PACKAGER%
+Sergej Pupykin <pupykin.s+arch@gmail.com>
+
+%SIZE%
+5017600
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+LGPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glib2
+readline
+perl>=5.22
+perl<5.23
+
+%OPTDEPENDS%
+alsa-lib: ALSA output
+avahi: announce xmms2d via bonjour/mDNS/zeroconf
+boost: C++ bindings
+curl: play HTTP streams
+cython: Python bindings
+faad2: AAC support
+ffmpeg: WMA, avcodec & avformat support
+fftw: visualization
+flac: FLAC support
+fluidsynth: MIDI support
+jack: JACK output
+libao: libao output
+libcdio-paranoia: CDDA support
+libdiscid: CDDA support
+libgme: support for various video game music formats
+libmad: MP3 support
+libmms: play MMS streams
+libmodplug: MOD support
+libmpcdec: Musepack support
+libofa: MusicDNS fingerprinting
+libsamplerate: vocoder support
+libshout: Icecast output
+libvorbis: Ogg Vorbis support
+libxml2: XSPF and podcast support
+mac: APE support
+mpg123: alternative MP3 support
+opusfile: Opus support
+perl: Perl bindings
+ruby: Ruby bindings
+smbclient: direct CIFS/SMB access
+speex: Speex support
+wavpack: WavPack support
+oss: OSS output
+pulseaudio: PulseAudio output
+
+%CONFLICTS%
+xmms2
+xmms2-devel
+
+%PROVIDES%
+xmms2
+

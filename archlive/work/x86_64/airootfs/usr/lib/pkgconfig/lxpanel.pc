@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=${prefix}
+pkglibdir=${exec_prefix}/lib/lxpanel
+includedir=${prefix}/include/lxpanel
+pluginsdir=${pkglibdir}/plugins
+
+Name: lxpanel
+Description: A lightweight X11 desktop panel
+Requires: glib-2.0 libfm
+Version: 0.8.1
+Libs: -L${pkglibdir} -llxpanel

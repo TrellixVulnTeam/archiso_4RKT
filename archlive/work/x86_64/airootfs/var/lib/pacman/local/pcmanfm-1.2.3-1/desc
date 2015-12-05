@@ -1,0 +1,47 @@
+%NAME%
+pcmanfm
+
+%VERSION%
+1.2.3-1
+
+%DESC%
+Extremely fast and lightweight file manager
+
+%URL%
+http://pcmanfm.sourceforge.net/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1413319291
+
+%INSTALLDATE%
+1449338735
+
+%PACKAGER%
+Evangelos Foutras <evangelos@foutrelis.com>
+
+%SIZE%
+1269760
+
+%GROUPS%
+lxde
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gtk2
+desktop-file-utils
+libfm
+lxmenu-data
+
+%OPTDEPENDS%
+gvfs: for trash support, mounting with udisks and remote filesystems
+udisks: alternative for mounting volumes
+xarchiver: archive management
+

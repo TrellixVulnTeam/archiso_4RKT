@@ -1,0 +1,41 @@
+%NAME%
+wget
+
+%VERSION%
+1.16.3-1
+
+%DESC%
+A network utility to retrieve files from the Web
+
+%URL%
+http://www.gnu.org/software/wget/wget.html
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1425952715
+
+%INSTALLDATE%
+1449338734
+
+%PACKAGER%
+Eric Belanger <eric@archlinux.org>
+
+%SIZE%
+2445312
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+openssl
+libidn
+libutil-linux
+
+%OPTDEPENDS%
+ca-certificates: HTTPS downloads
+

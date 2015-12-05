@@ -1,0 +1,45 @@
+%NAME%
+lxdm
+
+%VERSION%
+0.5.2-2
+
+%DESC%
+Lightweight X11 Display Manager
+
+%URL%
+https://sourceforge.net/projects/lxdm/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1446968095
+
+%INSTALLDATE%
+1449338735
+
+%PACKAGER%
+Balló György <ballogyor+arch@gmail.com>
+
+%SIZE%
+344064
+
+%GROUPS%
+lxde
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gtk2
+xorg-server
+
+%OPTDEPENDS%
+gtk-engines: default GTK+ theme
+iso-codes: show language names in language chooser
+librsvg: display the default background
+

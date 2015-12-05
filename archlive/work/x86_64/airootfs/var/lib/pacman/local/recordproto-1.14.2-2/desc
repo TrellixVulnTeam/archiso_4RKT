@@ -1,0 +1,36 @@
+%NAME%
+recordproto
+
+%VERSION%
+1.14.2-2
+
+%DESC%
+X11 Record extension wire protocol
+
+%URL%
+http://xorg.freedesktop.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1404360751
+
+%INSTALLDATE%
+1449336102
+
+%PACKAGER%
+Felix Yan <felixonmars@gmail.com>
+
+%SIZE%
+73728
+
+%REASON%
+1
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+

@@ -1,0 +1,44 @@
+%NAME%
+gpicview
+
+%VERSION%
+0.2.4-1
+
+%DESC%
+Lightweight image viewer
+
+%URL%
+http://lxde.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1382601960
+
+%INSTALLDATE%
+1449338734
+
+%PACKAGER%
+Bartłomiej Piotrowski <b@bpiotrowski.pl>
+
+%SIZE%
+365568
+
+%GROUPS%
+lxde
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gtk2
+desktop-file-utils
+xdg-utils
+
+%OPTDEPENDS%
+librsvg: For SVG support
+
